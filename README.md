@@ -1,6 +1,6 @@
 # CasualFunnel_Task
 
-# This Assignment is done in Django and its framework
+# This Assignment has done in Django and its framework
 
 # Steps to run the peoject
 
